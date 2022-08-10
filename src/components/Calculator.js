@@ -18,7 +18,8 @@ export default function Calculator(){
 
     const result = () => {
         try {
-            setText(eval(text).toString())
+            // eslint-disable-next-line
+            setText(eval(text.toString()))
         } catch(err) {
             setText("Error")
         }
