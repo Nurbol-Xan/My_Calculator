@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+## Try it yourself: [My Calculator](http://calculator-by-xan.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
